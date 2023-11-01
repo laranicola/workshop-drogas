@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.cabecalho{
+    width: 98,5%;
+    height: 130px;
+    background: #ffffff;
+    padding: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    
+
+}
+.logo{
+    width: 123px;
+    height: 122px;
+    margin: 10px;
+}
+.cadastro{
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+    font-size: 30px;
+    
+}
+ul{
+    gap: 100px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.comeco{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    width: 100%;
+}
+.exp{
+    display: flex;
+    text-align: center;
+}
+.cerebro{
+    width:700px;
+    height: 625px;
+}
+.text{
+    display: flex;
+    text-align: center;
+    
+}
+.susto{
+    width:700px;
+    height: 625px;
+}
+.liga{
+    width:700px;
+    height: 625px;
+}
+.pessoas{
+    width:700px;
+    height: 625px;
+}
+.rodape{
+    background-color: #f7cef1;
+}
+.redes{
+    text-align: center;
+}
+.insta{
+    width: 61px;
+    height: 56px;
+}
+.face{
+    width: 61px;
+    height: 56px;
+    margin-top: 7px;
+
+}
+.twit{
+    width: 61px;
+    height: 56px;
+    margin-top: 5px;
+
+}
+.tele{
+    width: 61px;
+    height: 56px;
+    margin-top: 5px;
+
+}
+    
+    
+    
+    
+    
